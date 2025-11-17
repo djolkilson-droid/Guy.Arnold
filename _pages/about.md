@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. Candidate in Economics at McGill University.[McGill Economics Department](https://www.mcgill.ca/economics/graduates/instream-students) 
+I am a Ph.D. Candidate in Economics at McGill University. [McGill Economics Department](https://www.mcgill.ca/economics/graduates/instream-students) 
 
 I'm interested in **Labour Economics, and Macroeconomics**. <br/>
 Most of my [work](https:///research) uses Canadian administrative microdata to study **labour market power**,  
