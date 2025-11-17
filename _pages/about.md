@@ -7,9 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the Marketing, Business Economics, and Law department at the [Alberta School of Business](https://www.ualberta.ca/en/business/index.html). <br/>
+I am a Ph.D. Candidate in Economics at McGill University.([https://www.ualberta.ca/en/business/index.html](https://www.mcgill.ca/economics/graduates/instream-students))  
+My research uses Canadian administrative microdata to study **labour market power**,  
+**employer concentration**, and the **distributional effects of macroeconomic shocks**,  
+with a focus on the Great Recession and public-sector dynamics.. <br/>
 
-I'm interested in **urban, real estate, and spatial economics**. 
+I'm interested in **Labour Economics, and Macroeconomics**. 
 Most of my [work](https://jamesmacek.github.io/research) studies **housing affordability** and **regulation**. 
 
 You can find my CV [here](../files/CV-JamesMacek_JM.pdf). Thanks for your interest!
